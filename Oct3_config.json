@@ -16,7 +16,7 @@
 "force_apk_player":true,
 "title_player":"Video Player",
 "description_player":"Please install Video Player to watch the match",
-"link_download_player":"https://github.com/niaan/Sweet-Orange/releases/download/1.1.0/aoeplayer_1.1.0.apk",
+"link_download_player":"https://github.com/niaan/Sweet-Orange/releases/download/1.1.2/AOEPlayer_1.1.2.apk",
 "package_name_player":"com.aoeplayer.apt",
 "player_versionbuild":"11"
 }
